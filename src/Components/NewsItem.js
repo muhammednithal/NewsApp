@@ -37,7 +37,7 @@ export class NewsItem extends Component {
               rel="noreferrer"
               className="btn btn-primary btn sm"
             >
-              Go somewhere
+             Read more
             </a>
           </div>
         </div>
